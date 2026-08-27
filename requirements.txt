@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+deep-translator
+beautifulsoup4
+gunicorn
